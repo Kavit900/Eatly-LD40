@@ -8,6 +8,8 @@ Ludum Dare 40 Game on the theme - 'The more you have, the worse it is'
 3. Find your jar in desktop module ``` Desktop -> build -> libs -> desktop-1.0.jar ```
 4. Run your jar ``` java -jar desktop-1.0.jar ```
 
+### Downloads:-
+[Jar File Download Link](https://www.dropbox.com/s/5qdlbxp9uac3rso/eatly.jar?dl=0)
 
 ### ScreenShots:-
 

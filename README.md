@@ -11,5 +11,6 @@ Ludum Dare 40 Game on the theme - 'The more you have, the worse it is'
 
 ### ScreenShots:-
 
-![alt text] (https://github.com/Kavit900/Eatly-LD40/blob/master/core/assets/screenshots/Screen%20Shot%202017-12-03%20at%202.39.58%20PM.png)
-![alt text] (https://github.com/Kavit900/Eatly-LD40/blob/master/core/assets/screenshots/Screen%20Shot%202017-12-03%20at%202.40.34%20PM.png)
+![alt text] (https://github.com/Kavit900/Eatly-LD40/blob/master/core/assets/screenshots/front_menu.png)
+![alt text] (https://github.com/Kavit900/Eatly-LD40/blob/master/core/assets/screenshots/game_play.png)
+![alt text] (https://github.com/Kavit900/Eatly-LD40/blob/master/core/assets/screenshots/end_menu.png)
